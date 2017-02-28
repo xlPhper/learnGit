@@ -4,7 +4,7 @@ hello word
 
 111222233333
 
-hi girl!
+hi man!
 
 today is 28
 
